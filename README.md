@@ -6,11 +6,11 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 ## Progress Dashboard
 
-| Platform | Problems Solved | Top Category |
-| :--- | :--- | :--- |
-| **LeetCode** | 1 | Graphs |
-| **HackerRank** | 0 | - |
-| **Total** | **1** | — |
+| Platform | Problems Solved |
+| :--- | :--- |
+| **LeetCode** | 1 |
+| **HackerRank** | 0 |
+| **Total** | **1** |
 
 ---
 
