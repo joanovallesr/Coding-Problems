@@ -18,8 +18,8 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 The repository is organized by platform and then by specific data structure or algorithmic pattern:
 
-* **`/LeetCode`**: Solutions to LeetCode problems, categorized by the NeetCode roadmap.
-* **`/HackerRank`**: Practice problems focusing on language proficiency (Java) and fundamental algorithms.
+* **`/LeetCode`**: Solutions to LeetCode problems.
+* **`/HackerRank`**: Practice problems focusing on language proficiency and fundamental algorithms.
 
 ---
 
