@@ -4,7 +4,7 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 ---
 
-## 📊 Progress Dashboard
+## Progress Dashboard
 
 | Platform | Problems Solved | Top Category |
 | :--- | :--- | :--- |
