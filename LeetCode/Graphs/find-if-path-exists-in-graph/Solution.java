@@ -21,10 +21,10 @@ class Solution {
 
     // trace the root
     private int find(int p) {
-        while (p != parent[p]) {
-            p = parent[p];
+        if (p == parent[p]) {
+            return p;
         }
-        return p;
+        return parent[p] = find(parent[p]); // path compression
     }
 
     // attach the smaller tree to the bigger tree
