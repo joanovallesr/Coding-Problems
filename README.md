@@ -37,9 +37,9 @@ The repository is organized by platform and then by specific data structure or a
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
-* **Language:** Java
+* **Language:** Java, C++, Python.
 * **Concepts:** Breadth-First Search (BFS), Depth-First Search (DFS), Union-Find, Arrays, Dynamic Programming.
 
 ---
