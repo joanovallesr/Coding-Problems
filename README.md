@@ -10,7 +10,7 @@ This repository serves as a personal archive of my problem-solving journey acros
 | :--- | :--- |
 | **LeetCode** | 3 |
 | **HackerRank** | 0 |
-| **Total** | **1** |
+| **Total** | **3** |
 
 ---
 
