@@ -9,8 +9,9 @@ This repository serves as a personal archive of my problem-solving journey acros
 | Platform | Problems Solved |
 | :--- | :--- |
 | **LeetCode** | 4 |
+| **CodeChef** | 1 |
 | **HackerRank** | 0 |
-| **Total** | **3** |
+| **Total** | **5** |
 
 ---
 
@@ -19,6 +20,7 @@ This repository serves as a personal archive of my problem-solving journey acros
 The repository is organized by platform and then by specific data structure or algorithmic pattern:
 
 * **`/LeetCode`**: Solutions to LeetCode problems.
+* **`/CodeChef`**: Solutions to CodeChef challenges.
 * **`/HackerRank`**: Practice problems focusing on language proficiency and fundamental algorithms.
 
 ---
@@ -33,6 +35,11 @@ The repository is organized by platform and then by specific data structure or a
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Arrays | [Java](./LeetCode/Arrays/missing-number/Solution.java) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | Graphs | [Java](./LeetCode/Graphs/find-if-path-exists-in-graph/Solution.java) |
 
+### CodeChef
+| Problem Code | Problem Name | Difficulty | Topic | Solution |
+| :--- | :--- | :--- | :--- | :--- |
+| SEARCHINARR | [Search an element in an array](https://www.codechef.com/problems/SEARCHINARR) | Easy | Arrays | [Java](./CodeChef/Arrays/search-an-element-in-an-array/Solution.java) |
+
 ### HackerRank
 | # | Problem Name | Difficulty | Topic | Solution |
 | :--- | :--- | :--- | :--- | :--- |
@@ -40,7 +47,7 @@ The repository is organized by platform and then by specific data structure or a
 
 ---
 
-##  Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Language:** Java, C++, Python.
 * **Concepts:** Breadth-First Search (BFS), Depth-First Search (DFS), Union-Find, Arrays, Dynamic Programming.
