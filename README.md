@@ -34,7 +34,7 @@ The repository is organized by platform and then by specific data structure or a
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy | Binary Search | [Java](./LeetCode/Binary-Search/search-insert-position/Solution.java) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Arrays and Hashing | [Java](./LeetCode/Arrays-and-Hashing/missing-number/Solution.java) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/concatenation-of-array/solution.py) |
-| 1757 | [Recyclabe and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | [SQL](.LeetCode/Database/Recyclable-and-Low-Fat-Products/solution.sql) |
+| 1757 | [Recyclabe and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | [SQL](./LeetCode/Database/Recyclable-and-Low-Fat-Products/solution.sql) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | Graphs | [Java](./LeetCode/Graphs/find-if-path-exists-in-graph/Solution.java) |
 
 ### CodeChef
