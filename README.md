@@ -32,7 +32,8 @@ The repository is organized by platform and then by specific data structure or a
 | :--- | :--- | :--- | :--- | :--- |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search | [Java](./LeetCode/Binary-Search/search-in-rotated-sorted-array/Solution.java) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy | Binary Search | [Java](./LeetCode/Binary-Search/search-insert-position/Solution.java) |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Arrays | [Java](./LeetCode/Arrays/missing-number/Solution.java) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Arrays and Hashing | [Java](./LeetCode/Arrays-and-Hashing/missing-number/Solution.java) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/concatenation-of-array/solution.py) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | Graphs | [Java](./LeetCode/Graphs/find-if-path-exists-in-graph/Solution.java) |
 
 ### CodeChef
