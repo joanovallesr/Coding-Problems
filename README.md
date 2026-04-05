@@ -8,7 +8,7 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 | Platform | Problems Solved |
 | :--- | :--- |
-| **LeetCode** | 4 |
+| **LeetCode** | 6 |
 | **CodeChef** | 1 |
 | **HackerRank** | 0 |
 | **Total** | **5** |
