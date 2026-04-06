@@ -11,7 +11,7 @@ This repository serves as a personal archive of my problem-solving journey acros
 | **LeetCode** | 8 |
 | **CodeChef** | 1 |
 | **HackerRank** | 0 |
-| **Total** | **5** |
+| **Total** | **9** |
 
 ---
 
