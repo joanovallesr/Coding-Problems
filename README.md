@@ -8,10 +8,10 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 | Platform | Problems Solved |
 | :--- | :--- |
-| **LeetCode** | 9 |
+| **LeetCode** | 10 |
 | **CodeChef** | 1 |
 | **HackerRank** | 0 |
-| **Total** | **10** |
+| **Total** | **11** |
 
 ---
 
@@ -30,6 +30,7 @@ The repository is organized by platform and then by specific data structure or a
 ### LeetCode
 | # | Problem Name | Difficulty | Topic | Solution |
 | :--- | :--- | :--- | :--- | :--- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays and Hashing | [C++](./LeetCode/Arrays-and-Hashing/two-sum/solution.cpp) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search | [Java](./LeetCode/Binary-Search/search-in-rotated-sorted-array/Solution.java) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy | Binary Search | [Java](./LeetCode/Binary-Search/search-insert-position/Solution.java) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays and Hashing | [C++](./LeetCode/Arrays-and-Hashing/contains-duplicate/solution.cpp) |
