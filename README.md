@@ -8,10 +8,10 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 | Platform | Problems Solved |
 | :--- | :--- |
-| **LeetCode** | 8 |
+| **LeetCode** | 9 |
 | **CodeChef** | 1 |
 | **HackerRank** | 0 |
-| **Total** | **5** |
+| **Total** | **10** |
 
 ---
 
@@ -33,6 +33,7 @@ The repository is organized by platform and then by specific data structure or a
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search | [Java](./LeetCode/Binary-Search/search-in-rotated-sorted-array/Solution.java) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy | Binary Search | [Java](./LeetCode/Binary-Search/search-insert-position/Solution.java) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays and Hashing | [C++](./LeetCode/Arrays-and-Hashing/contains-duplicate/solution.cpp) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Arrays and Hashing | [C++](./LeetCode/Arrays-and-Hashing/valid-anagram/solution.cpp) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Arrays and Hashing | [Java](./LeetCode/Arrays-and-Hashing/missing-number/Solution.java) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | [SQL](./LeetCode/Database/find-customer-referee/solution.sql) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/concatenation-of-array/solution.py) |
