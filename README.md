@@ -8,10 +8,10 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 | Platform | Problems Solved |
 | :--- | :--- |
-| **LeetCode** | 12 |
+| **LeetCode** | 13 |
 | **CodeChef** | 1 |
 | **HackerRank** | 0 |
-| **Total** | **13** |
+| **Total** | **14** |
 
 ---
 
@@ -39,6 +39,7 @@ The repository is organized by platform and then by specific data structure or a
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Arrays and Hashing | [Java](./LeetCode/Arrays-and-Hashing/missing-number/Solution.java) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | [SQL](./LeetCode/Database/find-customer-referee/solution.sql) |
 | 595 | [Big countries](https://leetcode.com/problems/big-countries/) | Easy | Database | [SQL](./LeetCode/Database/big-countries/solution.sql) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | [SQL](./LeetCode/Database/article-views-i/solution.sql) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/concatenation-of-array/solution.py) |
 | 1757 | [Recyclabe and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | [SQL](./LeetCode/Database/Recyclable-and-Low-Fat-Products/solution.sql) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | Graphs | [Java](./LeetCode/Graphs/find-if-path-exists-in-graph/Solution.java) |
