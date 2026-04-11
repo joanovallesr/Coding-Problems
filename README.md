@@ -8,10 +8,10 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 | Platform | Problems Solved |
 | :--- | :--- |
-| **LeetCode** | 18 |
+| **LeetCode** | 19 |
 | **CodeChef** | 1 |
 | **HackerRank** | 0 |
-| **Total** | **19** |
+| **Total** | **20** |
 
 ---
 
@@ -36,6 +36,7 @@ The repository is organized by platform and then by specific data structure or a
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy | Binary Search | [Java](./LeetCode/Binary-Search/search-insert-position/Solution.java) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/group-anagrams/solution.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays and Hashing | [C++](./LeetCode/Arrays-and-Hashing/contains-duplicate/solution.cpp) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | |Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/product-of-array-except-self/solution.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Arrays and Hashing | [C++](./LeetCode/Arrays-and-Hashing/valid-anagram/solution.cpp) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Arrays and Hashing | [Java](./LeetCode/Arrays-and-Hashing/missing-number/Solution.java) |
 | 271 | [Enconde and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/encode-and-decode-strings/solution.py) |
