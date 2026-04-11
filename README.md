@@ -8,10 +8,10 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 | Platform | Problems Solved |
 | :--- | :--- |
-| **LeetCode** | 16 |
+| **LeetCode** | 18 |
 | **CodeChef** | 1 |
 | **HackerRank** | 0 |
-| **Total** | **17** |
+| **Total** | **19** |
 
 ---
 
@@ -38,6 +38,8 @@ The repository is organized by platform and then by specific data structure or a
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays and Hashing | [C++](./LeetCode/Arrays-and-Hashing/contains-duplicate/solution.cpp) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Arrays and Hashing | [C++](./LeetCode/Arrays-and-Hashing/valid-anagram/solution.cpp) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Arrays and Hashing | [Java](./LeetCode/Arrays-and-Hashing/missing-number/Solution.java) |
+| 271 | [Enconde and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/encode-and-decode-strings/solution.py) |
+| 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Hard | Graphs | [Python](./LeetCode/Graphs/reconstruct-itinerary/solution.py) |
 | 347 | [Top K Frequent Element](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/top-k-frequent-elements/solution.py) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | [SQL](./LeetCode/Database/find-customer-referee/solution.sql) |
 | 595 | [Big countries](https://leetcode.com/problems/big-countries/) | Easy | Database | [SQL](./LeetCode/Database/big-countries/solution.sql) |
