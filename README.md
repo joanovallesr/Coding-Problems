@@ -8,10 +8,10 @@ This repository serves as a personal archive of my problem-solving journey acros
 
 | Platform | Problems Solved |
 | :--- | :--- |
-| **LeetCode** | 20 |
+| **LeetCode** | 21 |
 | **CodeChef** | 1 |
 | **HackerRank** | 0 |
-| **Total** | **21** |
+| **Total** | **22** |
 
 ---
 
@@ -35,6 +35,7 @@ The repository is organized by platform and then by specific data structure or a
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search | [Java](./LeetCode/Binary-Search/search-in-rotated-sorted-array/Solution.java) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy | Binary Search | [Java](./LeetCode/Binary-Search/search-insert-position/Solution.java) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/group-anagrams/solution.py) |
+| 51 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/spiral-matrix-ii/solution.py) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/longest-consecutive-sequence/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays and Hashing | [C++](./LeetCode/Arrays-and-Hashing/contains-duplicate/solution.cpp) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | |Arrays and Hashing | [Python](./LeetCode/Arrays-and-Hashing/product-of-array-except-self/solution.py) |
